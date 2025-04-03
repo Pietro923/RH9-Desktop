@@ -1,7 +1,17 @@
-# Tauri + React + Typescript
+📌 Descripción para GitHub
+RH9 Desktop es una aplicación de escritorio para la gestión de recursos humanos, desarrollada con Tauri, React, TypeScript y Supabase. Permite a empleadores y empleados administrar sus perfiles, gestionar organizaciones y optimizar procesos internos.
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+🚀 Tecnologías
+Tauri: Para empaquetar la app como software de escritorio.
 
-## Recommended IDE Setup
+React + TypeScript: Para la interfaz de usuario.
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+Supabase: Para autenticación y base de datos.
+
+Tamagui: Para un diseño adaptable y optimizado.
+
+🔥 Funciones principales
+✅ Registro e inicio de sesión con roles (Empleado/Empleador).
+✅ Creación y gestión de organizaciones.
+✅ Interfaz adaptable para escritorio.
+✅ Integración con Supabase para datos en tiempo real.
