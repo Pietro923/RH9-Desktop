@@ -1,5 +1,4 @@
-📌 Descripción para GitHub
-RH9 Desktop es una aplicación de escritorio para la gestión de recursos humanos, desarrollada con Tauri, React, TypeScript y Supabase. Permite a empleadores y empleados administrar sus perfiles, gestionar organizaciones y optimizar procesos internos.
+📌 RH9 Desktop es una aplicación de escritorio para la gestión de recursos humanos, desarrollada con Tauri, React, TypeScript y Supabase. Permite a empleadores y empleados administrar sus perfiles, gestionar organizaciones y optimizar procesos internos.
 
 🚀 Tecnologías
 Tauri: Para empaquetar la app como software de escritorio.
